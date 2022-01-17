@@ -66,5 +66,3 @@ void formatString (unsigned int size, unsigned char inputStr[size], unsigned cha
   printf("Input:\n\t%s\n", inputStr);
   printf("Result:\n\t%s\n\n", outputStr);
 }
-
-// qwe:qwe:qwe:wqe:
